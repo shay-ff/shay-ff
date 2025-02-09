@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hey! I'm Mohammad Ali!   
+- I code. and its fun.
+
+---
+![](https://komarev.com/ghpvc/?username=shay-ff&color=green)
+---
+
 # Connect :
 [![Mail Badge](https://img.shields.io/badge/-mohammadali-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:tomohmmdali@gmail.com) 
 

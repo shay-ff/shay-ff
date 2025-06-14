@@ -15,7 +15,7 @@ I'm **Mohammad Ali** — passionate about algorithms, always building and optimi
 
 ---
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mohmmd-ali) or drop a [Mail](mailto:tomohmmdali@example.com) here.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mohmmd-ali) or drop a [Mail](mailto:tomohmmdali@gmail.com) here.
 
 Thanks for stopping by!
 <p align="center">

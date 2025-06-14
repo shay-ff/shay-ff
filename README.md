@@ -1,11 +1,6 @@
 <p align="center"><b>Hello there!</b></p>
 
- "There are only two kinds of programmers: those who have built their own compiler, and those who have not."  
- <sub>— Anonymous (often attributed to Alan Perlis)</sub>
-
-
-
-I'm **Mohammad Ali** — the first kind of programmer. I often find myself building things or staring at something I don't understand (which is most of the time).
+I'm **Mohammad Ali** — passionate about algorithms, always building and optimizing things.
 
 ## Things I find interesting: 
 

@@ -1,5 +1,7 @@
 <p align="center"><b>Hello there!</b></p>
-
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=shay-ff&label=Profile%20views&color=0e75b6&style=flat" alt="Profile viewer count"/>
+</p>
 I'm **Mohammad Ali** — passionate about algorithms, always building and optimizing things.
 
 ## Things I find interesting: 
@@ -18,6 +20,8 @@ I'm **Mohammad Ali** — passionate about algorithms, always building and optimi
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mohmmd-ali) or drop a [Mail](mailto:tomohmmdali@gmail.com) here.
 
 Thanks for stopping by!
+
+
 <!-- ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shay-ff&show_icons=true&theme=radical)
 

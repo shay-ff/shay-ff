@@ -1,5 +1,5 @@
 ```
-    Hi I am Mohammad Ali! Thanks for Stopping by.
+    Hi! I am Mohammad Ali!.
 ```
 
 <p align="center">
@@ -226,10 +226,6 @@ for objective in "${FOCUS_AREAS[@]}"; do
     echo "[$objective] ✓ ACTIVE"
 done
 
-echo ""
-echo "� Current Obsession: Building tools that make developers' lives easier"
-echo "🎲 Fun Fact: I debug with printf statements and I'm not ashamed"
-```
 
 ## 📊 < GITHUB_ANALYTICS />
 
